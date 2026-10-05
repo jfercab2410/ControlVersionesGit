@@ -1,7 +1,7 @@
 
 # Git
 
-<img src="/img/git.png" alt="Logo de GitHub" width="400" height="400"/>
+<img src="/img/git.png" alt="Logo de Git" width="400" height="400"/>
 
 ## ¿Qué es Git?
 
