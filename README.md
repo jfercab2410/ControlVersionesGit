@@ -1,6 +1,6 @@
 # Índice
 
-[1. Introducción](introduccion.md)<br>
+[1. Introducción](introducción.md)<br>
 [2. Sistemas de control de versiones](./git.md)<br>
 [3. Lenguaje de marcas](./markdown.md)<br>
 [4. Repositorio](./github.md)<br>
